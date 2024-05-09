@@ -1,5 +1,7 @@
 # Predicting-NFL-contracts
 
+View here: https://colab.research.google.com/drive/1FxfXUgPWAcRJGrZybTHe6QujQ89TVHr7?authuser=3#scrollTo=UG8CIkbEHBdh
+
 Final project for 3162 - Introduction to Data Mining.
 
 Group members: Andrew Green, Emerson Jones, Eric Sheehan, Luke Hopson, Tacoma Jones
